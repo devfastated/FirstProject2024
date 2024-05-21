@@ -1,3 +1,6 @@
 <h1>Notification</h1>
 
-{{ $slot }}
+
+
+
+<h1>Below</h1>

@@ -1,4 +1,5 @@
 <x-layout>
+ 
 
     <div class="container py-md-5">
       <div class="row align-items-center">
@@ -35,7 +36,7 @@
       </div>
     </div>
 
-   
+</x-layout> 
 
-</x-layout>
 
+  
